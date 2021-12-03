@@ -1,0 +1,20 @@
+{
+  "name": "footsketch-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^15.7.2",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
